@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JyothiTurpu/devcamp_js_footer.git"
+    "url": "git+https://github.com/JyothiTurpu/jt_devcamp_js_footer.git"
   },
   "keywords": [
     "footer"
@@ -16,9 +16,9 @@
   "author": "Jyothi <jyothi.turpu@gmail.com> (https://github.com/JyothiTurpu)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JyothiTurpu/devcamp_js_footer/issues"
+    "url": "https://github.com/JyothiTurpu/jt_devcamp_js_footer/issues"
   },
-  "homepage": "https://github.com/JyothiTurpu/devcamp_js_footer#readme",
+  "homepage": "https://github.com/JyothiTurpu/jt_devcamp_js_footer#readme",
   "dependencies": {
     "moment": "^2.24.0"
   }
