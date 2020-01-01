@@ -10,13 +10,3 @@ import { footer } from 'jt_devcamp_js_footer';
 
 footer('Some Name');
 
-I am in the feature branch
-
-I am in another-feature branch
-
-another line from master
-stash
-some new function
-
-Pull DEMO
-Pull DEMO
