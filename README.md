@@ -13,3 +13,5 @@ footer('Some Name');
 I am in the feature branch
 
 I am in another-feature branch
+
+another line from master
