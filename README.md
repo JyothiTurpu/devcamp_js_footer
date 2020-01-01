@@ -19,3 +19,5 @@ stash
 some new function
 
 Pull DEMO
+
+Changes amde locally
