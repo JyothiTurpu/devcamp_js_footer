@@ -14,6 +14,7 @@ I am in the feature branch
 
 I am in another-feature branch
 
+My Innocent little change
 another line from master
 stash
 some new function
@@ -21,3 +22,4 @@ some new function
 Pull DEMO
 
 Changes amde locally
+Pull DEMO
